@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Exercise2 {
+public class CheckOddEven {
 
 	public static void main(String[] args) {
 		int num1;
